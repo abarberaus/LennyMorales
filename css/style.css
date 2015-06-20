@@ -1,4 +1,11 @@
 /* My Carousel */
-.my_carousel {
-  	max-width: 868px;
+/* Nav */
+.white {
+	font-family: 'Merriweather';
+}
+
+@media screen and (max-width: 585px) {
+    .disappear_small {
+        display: none;
+    }
 }
