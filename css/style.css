@@ -68,7 +68,10 @@ footer > div > p {
 .s1 {
 	padding-top: 150px;
 }
-
+.blog{
+	background-image: none;
+	background-color: #ffffff;
+}
 /* Volunteer */
 
 .v1 {
