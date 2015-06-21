@@ -1,11 +1,11 @@
 /* My Carousel */
 .my_carousel {
-	max-width: 585px;
-	color: white;
 }
 /* Nav */
 .white {
 	font-family: 'Merriweather';
+	text-transform: none;
+	color: white;
 }
 
 #mainNav {
