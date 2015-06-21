@@ -79,13 +79,41 @@
         <!-- /.container-fluid -->
     </nav>
 
+    <!-- Section 1 -->
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1>Your Favorite Source of Free Bootstrap Themes</h1>
-                <hr>
-                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+                <!-- My Carousel -->
+                <div class="carousel slide my_carousel" id="carousel">
+                  <!-- Indicators -->
+                  <ol class="carousel-indicators">
+                    <li class="" data-slide-to="0" data-target="#carousel"></li>
+                    <li data-slide-to="1" data-target="#carousel" class=""></li>
+                    <li data-slide-to="2" data-target="#carousel" class="active"></li>
+                  </ol>
+
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner">
+                    <div class="item">
+                      <img src="img/carousel.jpg" alt="First slide">
+                    </div>
+                    <div class="item">
+                      <img src="img/carousel.jpg" alt="First slide">
+                    </div>
+                    <div class="item active">
+                      <img src="img/carousel.jpg" alt="First slide">
+                    </div>
+                  </div>
+
+                  <!-- Controls -->
+                  <a class="left carousel-control" data-slide="prev" href="#carousel">
+                    <span class="icon-prev"></span>
+                  </a>
+                  <a class="right carousel-control" data-slide="next" href="#carousel">
+                    <span class="icon-next"></span>
+                  </a>
+                </div>
+                <!-- End Carousel -->
             </div>
         </div>
     </header>

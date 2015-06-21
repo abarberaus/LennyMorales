@@ -1,7 +1,17 @@
 /* My Carousel */
+.my_carousel {
+	max-width: 585px;
+	color: white;
+}
 /* Nav */
 .white {
 	font-family: 'Merriweather';
+}
+
+#mainNav {
+	background-color: #2C4D90;
+  	margin-bottom: 0;
+  	float: left;
 }
 
 @media screen and (max-width: 585px) {
@@ -9,3 +19,5 @@
         display: none;
     }
 }
+
+/* S1 */
