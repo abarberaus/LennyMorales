@@ -87,6 +87,12 @@ hr {
 	width: 200px;
 }
 
+.box {
+	background-color: rgba(0,0,0,.6);
+  	margin-top: 40px;
+  	border-radius: 15px;
+}
+
 .box > div > h2 {
 	font-weight: 700;
 }
