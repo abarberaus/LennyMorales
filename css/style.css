@@ -68,3 +68,21 @@ footer > div > p {
 .s1 {
 	padding-top: 150px;
 }
+
+/* Volunteer */
+
+.v1 {
+	padding-top: 50px;
+}
+
+hr {
+	border-color: #990000;
+}
+
+.v_button {
+	width: 200px;
+}
+
+.box > div > h2 {
+	font-weight: 700;
+}

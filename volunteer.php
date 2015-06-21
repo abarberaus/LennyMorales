@@ -1,3 +1,5 @@
+<?php
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -81,6 +83,45 @@
 
     <!-- Section 1 -->
     <header>
+        <div class="container v1">
+            <div class="row">
+                <div class="box">
+                    <div class="col-lg-12">
+                        <h2>Thank You for Your Interest in Volunteering!</h2>
+                        <hr>
+                    </div>
+                    <div class="col-md-12">
+                        <p>Please fill out the information below, and we'll contact you as soon as possible.</p>
+                        <form action="email.php" method="post" role="form">
+                            <div class="row">
+                                <div class="form-group col-lg-4">
+                                    <label>Name</label>
+                                    <input type="text" class="form-control" name="name" required>
+                                </div>
+                                <div class="form-group col-lg-4">
+                                    <label>Email Address</label>
+                                    <input type="email" class="form-control" name="email" required>
+                                </div>
+                                <div class="form-group col-lg-4">
+                                    <label>Phone Number</label>
+                                    <input type="tel" class="form-control" name="phone">
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="form-group col-lg-12">
+                                    <label>Message</label>
+                                    <textarea class="form-control" rows="6" name="message"></textarea>
+                                </div>
+                                <div class="form-group col-lg-12">
+                                    <input type="hidden" name="save" value="contact">
+                                    <button type="submit" name="submit" class="btn btn-default v_button">Submit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
     </header>
 
     <footer class="footer">
