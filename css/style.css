@@ -1,9 +1,26 @@
 section {
-	padding: 0;
+	padding: 30px 0;
+}
+
+.service-box {
+	margin: 0;
 }
 
 .margin_top {
 	margin-top: 20px;
+}
+
+.blue {
+  	color: rgb(44, 77, 144);
+}
+
+.my_anchor:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.my_anchor > div > h3 {
+	color: black;
 }
 
 /* My Carousel */
