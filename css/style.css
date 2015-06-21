@@ -5,6 +5,10 @@ section {
 /* My Carousel */
 .my_carousel {
 }
+
+.header-content-inner {
+	border: 10px solid white;
+}
 /* Nav */
 .white {
 	font-family: 'Merriweather';
@@ -24,4 +28,14 @@ section {
     }
 }
 
-/* S1 */
+/* footer */
+
+footer {
+	text-align: center;
+	background-color: black;
+	padding-top: 15px;
+}
+
+footer > p {
+	color: white;
+}
