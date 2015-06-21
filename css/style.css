@@ -86,3 +86,26 @@ hr {
 .box > div > h2 {
 	font-weight: 700;
 }
+
+/* Index */
+
+.opacity {
+	background-color: rgba(0,0,0,.6);
+	border-radius: 10px;
+	overflow: hidden;
+  	padding: 35px;
+}
+
+.opacity > div > h2 {
+	font-family: 'Merriweather';
+	font-size: 50px;
+}
+
+.opacity > div > p {
+	font-family: 'Merriweather';
+	font-size: 24px;
+}
+
+.opacity > div > img {
+	border-radius: 15px;
+}
