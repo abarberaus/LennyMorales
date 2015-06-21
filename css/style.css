@@ -57,6 +57,6 @@ footer {
 	padding-top: 15px;
 }
 
-footer > p {
-	color: white;
+footer > div > p {
+	color: #eee;
 }
