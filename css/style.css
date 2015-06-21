@@ -23,6 +23,10 @@ section {
 	color: black;
 }
 
+.blue:hover {
+	color: #990000;
+}
+
 /* My Carousel */
 .my_carousel {
 }
@@ -59,4 +63,8 @@ footer {
 
 footer > div > p {
 	color: #eee;
+}
+
+.s1 {
+	padding-top: 150px;
 }
