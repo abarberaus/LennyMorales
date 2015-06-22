@@ -11,7 +11,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Lenny Morales for District Attorney</title>
+    <title>Leonard Morales for District Attorney</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -72,7 +72,7 @@
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="#">DONATE</a>
+                        <a class="page-scroll" href="page-scroll" href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=VGjkhp_BClb_Ln0u8MoZ0rt_l4kC5-cP1qwZChSY6472pbZormYlGFq4N0a&dispatch=5885d80a13c0db1f8e263663d3faee8de6030e9239419d79c3f52f70a3ed57ec">DONATE</a>
                     </li>           
                 </ul>
             </div>
@@ -126,7 +126,7 @@
 
     <footer class="footer">
         <div class="container">
-            <p>Copyright &copy; 2015. All Rights Reserved Lenny Morales</p>
+            <p>Copyright &copy; 2015. All Rights Reserved Leonard Morales</p>
         </div>
     </footer>
 
