@@ -39,6 +39,23 @@ img {
 	border: 10px solid white;
 }
 /* Nav */
+
+.paypal_nav {
+  background-color: #2C4D90;
+  border: 0;
+  color: rgba(255,255,255,.7);
+  font-family: 'Open Sans';
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 700;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.paypal_nav:hover {
+	color: white;
+}
+
 .white {
 	font-family: 'Merriweather';
 	text-transform: none;

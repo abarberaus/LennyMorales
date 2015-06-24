@@ -72,8 +72,13 @@
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a class="page-scroll" href="#">DONATE</a>
-                    </li>           
+                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="B27YPKLAR27PC">
+                            <input type="submit" value="Donate Now" name="submit" title="PayPal - The safer, easier way to pay online!" class="paypal_nav">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                        </li>       
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
