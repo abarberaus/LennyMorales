@@ -80,7 +80,7 @@
                 <div class="row">
                     <div class="box">
                         <div class="col-lg-12">
-                            <h2>Thank You for Your Interest in Volunteering!</h2>
+                            <h2>I Welcome Your Donation, Feedback, and Help.</h2>
                             <hr>
                         </div>
                         <div class="col-md-12">
