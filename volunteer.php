@@ -53,9 +53,6 @@
                         <li>
                             <a class="page-scroll" href="volunteer.php">Volunteer</a>
                         </li>
-                        <li>
-                            <a class="page-scroll" href="blog.html">Blog</a>
-                        </li>
                     </ul>
                      <ul class="nav navbar-nav navbar-right">
                         <li>
