@@ -90,7 +90,7 @@ footer > div > p {
 	padding-top: 12%;
 	max-width: 950px;
 }
-.blog{
+.blog {
 	background-image: none;
 	background-color: #ffffff;
 }
@@ -131,11 +131,17 @@ hr {
 .opacity > div > h2 {
 	font-family: 'Merriweather';
 	font-size: 50px;
+	margin-top: 0;
+}
+
+.opacity > div > h3 {
+	font-family: 'Merriweather';
+	font-size: 40px;
 }
 
 .opacity > div > p {
 	font-family: 'Merriweather';
-	font-size: 24px;
+	font-size: 16px;
 }
 
 /* About Lenny */
@@ -190,4 +196,14 @@ hr {
 
 .hang_in_there {
 	margin-top: 100px;
+}
+
+/* Backgrounds */
+
+.lenny_background {
+	background-image: url(../img/sunset.jpg);
+}
+
+.priorities_background {
+	background-image: url(../img/mountains.jpeg);
 }
