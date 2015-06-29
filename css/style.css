@@ -191,6 +191,10 @@ hr {
 .fa {
 	margin-right: 10px;
 }
+.glyphicon-star{
+	font-size: 4em;
+	color:red;
+}
 
 /* blog */
 
@@ -205,5 +209,5 @@ hr {
 }
 
 .priorities_background {
-	background-image: url(../img/mountains.jpeg);
+	background-image: url(../img/el_paso.jpg);
 }
