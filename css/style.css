@@ -87,7 +87,7 @@ footer > div > p {
 }
 
 .s1 {
-	padding-top: 9%;
+	padding-top: 12%;
 	max-width: 950px;
 }
 .blog {
@@ -132,11 +132,6 @@ hr {
 	font-family: 'Merriweather';
 	font-size: 50px;
 	margin-top: 0;
-	text-shadow:
-   -1px -1px 0 #900,  
-    1px -1px 0 #900,
-    -1px 1px 0 #900,
-     1px 1px 0 #900;
 }
 
 .opacity > div > h3 {
@@ -196,19 +191,9 @@ hr {
 .fa {
 	margin-right: 10px;
 }
-.glyphicon-star {
-	font-size: 28px;
+.glyphicon-star{
+	font-size: 4em;
 	color:red;
-	margin: 0 10px 0 15px;
-}
-
-.opacity > div > h4 {
-	font-size: 28px;
-	text-shadow:
-   -1px -1px 0 #900,  
-    1px -1px 0 #900,
-    -1px 1px 0 #900,
-     1px 1px 0 #900;
 }
 
 /* blog */
