@@ -60,9 +60,11 @@
                     <li>
                         <a class="page-scroll" href="lenny.html">About Lenny</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="priorities.html">Priorities</a>
-                    </li>
+                    <!-- Priorities page to be updated with Lenny's content
+                        <li>
+                            <a class="page-scroll" href="priorities.html">Priorities</a>
+                        </li>
+                         -->
                     <li>
                         <a class="page-scroll" href="volunteer.php">Volunteer</a>
                     </li>            
